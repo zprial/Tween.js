@@ -1,0 +1,30 @@
+{
+  "name": "tween.js",
+  "version": "0.1.0",
+  "description": "A tool for Tween",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zprial/Tween.js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Tween"
+  ],
+  "author": "zprial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zprial/Tween.js/issues"
+  },
+  "homepage": "https://github.com/zprial/Tween.js#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.5.0",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.8.1",
+    "postcss-modules": "^1.1.0"
+  }
+}
